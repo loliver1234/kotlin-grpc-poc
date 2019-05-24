@@ -1,2 +1,13 @@
-# kotlin-grpc-poc
-Simple Client-Server communication based on gRPC with kotlin
+# Playground
+
+Playground is a stack showcasing a PoC of new libraries and protocols
+
+List of technologies/tools:
+- Docker | Docker Compose | Kubernetes
+- Jenkins
+- Cypress
+- gRPC
+- Kotlin
+- WebAssembly
+- Elasticsearch
+- Kibana
