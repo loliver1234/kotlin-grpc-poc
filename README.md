@@ -8,6 +8,6 @@ List of technologies/tools:
 - Cypress
 - gRPC
 - Kotlin
-- WebAssembly
 - Elasticsearch
 - Kibana
+- React Native
